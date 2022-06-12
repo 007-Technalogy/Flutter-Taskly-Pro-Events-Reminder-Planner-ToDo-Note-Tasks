@@ -2,7 +2,39 @@
 Taskly Pro: Events, Reminder, Planner, ToDo, Note, Tasks
 <!DOCTYPE html>
 <body>
+ <div align="center" dir="auto">
+  <a href="LICENSE" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/4b7805417425e4ec5f1c54608851e2e462c2b3911a77f3d73ae3d3345b656cf7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e7376673f6c6f6e6743616368653d74727565267374796c653d666f722d7468652d6261646765" alt="License MIT" data-canonical-src="https://img.shields.io/badge/license-MIT-blue.svg?longCache=true&amp;style=for-the-badge" style="max-width: 100%;">
+  </a>
+  <a href="https://codecanyon.net/item/taskly-pro-events-reminder-planner-todo-note-tasks/38155864">
+     <img src="https://camo.githubusercontent.com/fd9b46f6119b15a28a47841bcac5cab4e5b5c2c3f19b152fd7f41e4043ca4dd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f617765736f6d652d2546302539462539352542362d707572706c652e7376673f6c6f6e6743616368653d74727565267374796c653d666f722d7468652d6261646765" alt="Awesome Flutter" data-canonical-src="https://img.shields.io/badge/awesome-%F0%9F%95%B6-purple.svg?longCache=true&amp;style=for-the-badge" style="max-width: 100%;">
+  </a>
+  <a href="https://www.dartlang.org/" rel="nofollow">
+     <img src="https://camo.githubusercontent.com/0247db5ccdd108bee0661def3b1302efa771001a0d0efdc6018b8a94ee1e7f4e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446172742d322e302e302d6666363962342e7376673f6c6f6e6743616368653d74727565267374796c653d666f722d7468652d6261646765" alt="Dart" data-canonical-src="https://img.shields.io/badge/Dart-2.0.0-ff69b4.svg?longCache=true&amp;style=for-the-badge" style="max-width: 100%;">
+  </a>
+  <a href="https://flutter.io/" rel="nofollow">
+     <img src="https://camo.githubusercontent.com/f633a817c483349c3a0df7b7d0f7c3af25e2114070bf7c1a44f3bf4ae473fff9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c75747465722d53444b2d3342423946462e7376673f6c6f6e6743616368653d74727565267374796c653d666f722d7468652d6261646765" alt="Flutter" data-canonical-src="https://img.shields.io/badge/Flutter-SDK-3BB9FF.svg?longCache=true&amp;style=for-the-badge" style="max-width: 100%;">
+  </a>
+</div>
+ <hr>
+ <h3 align="left" dir="auto"><a id="user-content--download-it-on-Source-Code-now-------taskly Pro-on-android------download-it-on-ios-now-------Taskly-on-ios----" class="anchor" aria-hidden="true" href="#-download-it-on-android-now-------Taskly-on-android------download-it-on-ios-now-------Taskly-on-ios----"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="Taskly"></path></svg></a>
+ Download it on Android now: <a href="https://drive.google.com/file/d/1Hk5LmTIj4hsStoxIdJy23XqpSmIZjUqm/view?usp=sharing" rel="nofollow">
+      Taskly Pro on Android
+    </a>
+ <br>
+ Download Source Code now: <a href="https://codecanyon.net/item/taskly-pro-events-reminder-planner-todo-note-tasks/38155864" rel="nofollow">
+      Source Code
+    </a>
+</h3>
+<hr>
+
+<img style=" border-radius:35px 35px 35px 35px;" src="https://serving.photos.photobox.com/255907097f5fe2b23df5ca7e238174f857362c7061cedfd39d62ac5bb1cd6f92f97ea06b.jpg" alt="alternatetext" width="750" height="500">
  
+ <hr>
+ <h2 align="center" dir="auto"><a id="user-content---ui-design" class="anchor" aria-hidden="true" href="#--ui-design"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
+  <strong>UI Design</strong>
+</h2>
+ <hr>
   
  
 <img src="https://serving.photos.photobox.com/83310582f2bbf18e8b7fd8b4743896b315af1fd6a9ae84a2be4392df2a92c2636dc71c28.jpg"  alt="alternatetext" width="1233" height="690">
@@ -115,8 +147,8 @@ to increase your productivity.</p>
 </ul>
 
 </p>
+<hr>
 
-<img style=" border-radius:35px 35px 35px 35px;" src="https://serving.photos.photobox.com/255907097f5fe2b23df5ca7e238174f857362c7061cedfd39d62ac5bb1cd6f92f97ea06b.jpg" alt="alternatetext" width="750" height="500">
  
 <img style=" border-radius:35px 35px 35px 35px;" src="https://serving.photos.photobox.com/57046657bf3f3e423f16e3ec215b354234723658ff868cbd45d7851c6dd7ee8368734dcf.jpg" alt="alternatetext" width="750" height="500">
  
