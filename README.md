@@ -2,11 +2,10 @@
 Taskly Pro: Events, Reminder, Planner, ToDo, Note, Tasks
 <!DOCTYPE html>
 <body>
-  <p style="font-size:22px;text-align:center;"><strong>Taskly Pro: Event, Note, Reminder, ToDo, Group, Planner</strong></p>
-  
+ 
   
  
-<img src="https://serving.photos.photobox.com/73879082c86c93c9a71e6e71c24286a1a619a7ec788a400392870b5384910157cb1f6451.jpg"  alt="alternatetext" width="1233" height="690">
+<img src="https://serving.photos.photobox.com/83310582f2bbf18e8b7fd8b4743896b315af1fd6a9ae84a2be4392df2a92c2636dc71c28.jpg"  alt="alternatetext" width="1233" height="690">
 
 <img src="https://serving.photos.photobox.com/5759126021c783197d11b4f63f9800486502154b048e7e0675f4bd91f16f4b2b49bfb71a.jpg"  alt="alternatetext" width="1233" height="690">
 
@@ -126,13 +125,8 @@ to increase your productivity.</p>
 <img style=" border-radius:35px 35px 35px 35px;" src="https://serving.photos.photobox.com/44730794de1a94ab09c1ff169c7e4b90befa8e48e5034ab86239a543aa8a7a0cef38197d.jpg" alt="alternatetext" width="750" height="500">
  
 
-
-<img style=" border-radius:40px 40px 40px 40px;" src="https://serving.photos.photobox.com/7599653240a952a7cfbf0de0d00b1617677f74029cf13345a3cd31d489756c0c2a6a81cb.jpg"  alt="alternatetext" width="1233" height="800">
  
 <img style=" border-radius:35px 35px 35px 35px;" src="https://serving.photos.photobox.com/11403270819e9a711b5f661df65fa730893c3dd8495f9dde08e0dfe1b5a05d46d7f2cc17.jpg" alt="alternatetext" width="1233" height="800">
 
-<img style=" border-radius:40px 40px 40px 40px;" src=" https://serving.photos.photobox.com/851088337290ff872c2e6ce952315026b29dee4cd23c8a755c5357fe5d216d0da785a3e5.jpg"  alt="alternatetext" width="1233" height="800">
-
-<img style=" border-radius:40px 40px 40px 40px;" src=" https://serving.photos.photobox.com/8193329414e603cac408f93986ec6baa78fdf6268a684bb9b328a35a60ba424575b7ddf7.jpg"  alt="alternatetext" width="800" height="600">
 </body>
 </html>
